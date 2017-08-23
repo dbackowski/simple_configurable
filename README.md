@@ -1,4 +1,4 @@
-# SimpleConfigurable
+# SimpleConfigurable [![Build Status](https://travis-ci.org/dbackowski/simple_configurable.svg?branch=master)](https://travis-ci.org/dbackowski/simple_configurable)
 
 Simple configuration module for specifying the configuration attributes of a class using a very simple syntax.
 
